@@ -1,0 +1,23 @@
+{
+  "name": "eventbus_js",
+  "version": "1.0.0",
+  "description": "Simple Event bus",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsisodiya/eventbus_js.git"
+  },
+  "keywords": [
+    "eventbus",
+    "pubsub"
+  ],
+  "author": "Narendra Sisodiya <narendra@narendrasisodiya.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsisodiya/eventbus_js/issues"
+  },
+  "homepage": "https://github.com/nsisodiya/eventbus_js#readme"
+}
